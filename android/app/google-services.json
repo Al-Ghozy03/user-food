@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1046110479915",
+    "project_id": "aplikasi-makanan-5028c",
+    "storage_bucket": "aplikasi-makanan-5028c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046110479915:android:fa6116b947be96ca2a6c6e",
+        "android_client_info": {
+          "package_name": "com.example.admin_aplikasi_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046110479915-8t5pr5d7iesic8tp9u33h58go5nj7msb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7AyN30cPmJWfGeS_FZWh_LUYsWqZ6qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046110479915-8t5pr5d7iesic8tp9u33h58go5nj7msb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046110479915:android:770e741694c7fc922a6c6e",
+        "android_client_info": {
+          "package_name": "com.example.user_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046110479915-8t5pr5d7iesic8tp9u33h58go5nj7msb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7AyN30cPmJWfGeS_FZWh_LUYsWqZ6qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046110479915-8t5pr5d7iesic8tp9u33h58go5nj7msb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
