@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   cloud_firestore: ^3.1.10
   iconsax: ^0.0.8
+  chips_choice_null_safety: ^2.0.6
 
 dev_dependencies:
   flutter_test:
@@ -79,6 +80,9 @@ flutter:
     - family: Popin
       fonts:
         - asset: fonts/Poppins-Regular.ttf
+    - family: PopinSemi
+      fonts:
+        - asset: fonts/Poppins-SemiBold.ttf
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
